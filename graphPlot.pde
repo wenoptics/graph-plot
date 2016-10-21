@@ -25,7 +25,11 @@ double targetFunc(double x) {
   //return tan((float)x) - x;
 }
 
+
+
 /*
+  plot
+  
   Parametres : 
     float fx1: the left value of X
     float fx2: the right value of X
