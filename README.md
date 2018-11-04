@@ -2,7 +2,7 @@
 Plot the graph of a simple math function. 
 
 
-我《现代设计技术》的一个实验作业。
+《现代设计技术》的一个实验作业。
 
 
 
