@@ -1,10 +1,10 @@
 # graph-plot
-Plot the graph of a simple math function. 
+Plot the graph of simple math function in Processing. 
 
-
-《现代设计技术》的一个实验作业。
+![](screenshots/0.png)
 
 
 
 using Processing (3.2.1)
 
+_《现代设计技术》实验作业_
